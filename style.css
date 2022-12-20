@@ -150,6 +150,10 @@ section {
     text-align: center;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 /* FLEX */
 
 .flex {
